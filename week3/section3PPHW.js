@@ -7,6 +7,7 @@ function greetCustomer () {
   }
   console.log(message);
 }
+
 function getPizzaOrder (size, crust, ...toppings) {
   let message= `'one ${size}, ${crust} pizza with'`;
   for ( let option of toppings) {

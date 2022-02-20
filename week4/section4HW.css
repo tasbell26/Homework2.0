@@ -1,0 +1,33 @@
+html {
+  background-color: aquamarine;
+  color: black;
+}
+header {
+  text-align: center;
+  padding: 40px;
+  margin: 0, auto;
+  background-color: blueviolet;
+  font-size: 30px;
+  border: 10px solid rgb(243, 17, 243);
+  border-radius: 5%;
+}
+header > h4 {
+  font-size: 15px;
+  padding: 0;
+  margin: 0, auto;
+}
+.bodyContent {
+  padding: 10px;
+  margin: 0, auto;
+  background-color: white;
+}
+footer {
+  text-align: center;
+}
+#kittypic {
+  border: 10px solid rgb(243, 17, 243);
+  border-radius: 5%;
+}
+a {
+  display: block;
+}
